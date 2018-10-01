@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FutureValueSwing3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FutureValueSwing3_jar</output-path>
+    <root id="archive" name="FutureValueSwing3.jar">
+      <element id="module-output" name="FutureValueSwing3" />
+    </root>
+  </artifact>
+</component>
