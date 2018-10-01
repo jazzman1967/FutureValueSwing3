@@ -7,15 +7,12 @@
         <groupId>Murach</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <build>
+        <defaultGoal>deploy</defaultGoal>
+    </build>
+
+    
+
     <modelVersion>4.0.0</modelVersion>
-
     <artifactId>Business</artifactId>
-    <properties>
-        <project>
-            <maven.compiler.source>1.9</maven.compiler.source>
-            <maven.compiler.target>1.9</maven.compiler.target>
-        </project>
-    </properties>
-
-
 </project>
